@@ -1,0 +1,19 @@
+@charset "utf-8";
+/*
+Author: Brandon Lainey
+Date: 2/3/2023
+Description: CSS file for eportfolio site
+*/
+
+body {
+  background-color: rgb(3, 165, 240);
+  color: white;
+  font-style: normal;
+  text-align: center;
+}
+
+p.ipsum {
+  font-style: italic;
+  color: black;
+  font-size: smaller;
+}
